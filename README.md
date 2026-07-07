@@ -10,20 +10,25 @@ The section below is automatically updated by the automated audit script.
 
 <!-- ACTIONS_DASHBOARD_START -->
 
-Last Updated: `2026-07-07 21:21:36 UTC`
+Last Updated: `2026-07-07 22:58:41 UTC`
 
 ### 🔑 API Status
-- **Rate Limit Remaining:** `5000/5000` (100.0% remaining)
-- **Reset Time:** `22:21:49 UTC`
+- **Rate Limit Remaining:** `4985/5000` (99.7% remaining)
+- **Reset Time:** `23:44:23 UTC`
 
 ### 🔄 Active Workflows
 | Organization | Repository | Workflow | Status | Run Link | Started |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `RPDevs-Vault` | [`action-manager`](https://github.com/RPDevs-Vault/action-manager) | Global Actions Auditor | 🔄 `in_progress` | [Run #46](https://github.com/RPDevs-Vault/action-manager/actions/runs/28899578723) | 2026-07-07 21:21 UTC |
+| `RPDevs-Vault` | [`action-manager`](https://github.com/RPDevs-Vault/action-manager) | Global Actions Auditor | 🔄 `in_progress` | [Run #47](https://github.com/RPDevs-Vault/action-manager/actions/runs/28904526530) | 2026-07-07 22:58 UTC |
 
 ### ⏱️ Completed Workflows (Last 24 Hours)
 | Organization | Repository | Workflow | Conclusion | Run Link | Completed |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `RPDevs-Builds` | [`rpdevs-builds.github.io`](https://github.com/RPDevs-Builds/rpdevs-builds.github.io) | Deploy GitHub Pages | ✅ `success` | [Run #124](https://github.com/RPDevs-Builds/rpdevs-builds.github.io/actions/runs/28904522857) | 2026-07-07 22:58 UTC |
+| `RPDevs-Vault` | [`container-manager`](https://github.com/RPDevs-Vault/container-manager) | Fleet Status Aggregator | ✅ `success` | [Run #67](https://github.com/RPDevs-Vault/container-manager/actions/runs/28904237953) | 2026-07-07 22:52 UTC |
+| `RPDevs-Vault` | [`monitor-manager`](https://github.com/RPDevs-Vault/monitor-manager) | Heartbeat Uptime Check | ✅ `success` | [Run #55](https://github.com/RPDevs-Vault/monitor-manager/actions/runs/28901746129) | 2026-07-07 22:02 UTC |
+| `RPDevs-Vault` | [`container-manager`](https://github.com/RPDevs-Vault/container-manager) | Fleet Status Aggregator | ✅ `success` | [Run #66](https://github.com/RPDevs-Vault/container-manager/actions/runs/28901104715) | 2026-07-07 21:50 UTC |
+| `RPDevs-Vault` | [`action-manager`](https://github.com/RPDevs-Vault/action-manager) | Global Actions Auditor | ✅ `success` | [Run #46](https://github.com/RPDevs-Vault/action-manager/actions/runs/28899578723) | 2026-07-07 21:21 UTC |
 | `RPDevs-Builds` | [`rpdevs-builds.github.io`](https://github.com/RPDevs-Builds/rpdevs-builds.github.io) | Deploy GitHub Pages | ✅ `success` | [Run #123](https://github.com/RPDevs-Builds/rpdevs-builds.github.io/actions/runs/28899553051) | 2026-07-07 21:21 UTC |
 | `RPDevs-Vault` | [`monitor-manager`](https://github.com/RPDevs-Vault/monitor-manager) | Heartbeat Uptime Check | ✅ `success` | [Run #54](https://github.com/RPDevs-Vault/monitor-manager/actions/runs/28897245079) | 2026-07-07 20:41 UTC |
 | `RPDevs-Vault` | [`container-manager`](https://github.com/RPDevs-Vault/container-manager) | Fleet Status Aggregator | ✅ `success` | [Run #65](https://github.com/RPDevs-Vault/container-manager/actions/runs/28896107811) | 2026-07-07 20:22 UTC |
@@ -45,13 +50,8 @@ Last Updated: `2026-07-07 21:21:36 UTC`
 | `RPDevs-Vault` | [`github-manager`](https://github.com/RPDevs-Vault/github-manager) | Global Health Dashboard | ✅ `success` | [Run #20](https://github.com/RPDevs-Vault/github-manager/actions/runs/28872755674) | 2026-07-07 14:10 UTC |
 | `RPDevs-Vault` | [`github-openwrt`](https://github.com/RPDevs-Vault/github-openwrt) | Build gh for OpenWrt | ✅ `success` | [Run #18](https://github.com/RPDevs-Vault/github-openwrt/actions/runs/28872195155) | 2026-07-07 14:02 UTC |
 | `RPDevs-Builds` | [`vlc-live-555`](https://github.com/RPDevs-Builds/vlc-live-555) | Universal Cross-Platform Matrix Release Engine | ✅ `success` | [Run #121](https://github.com/RPDevs-Builds/vlc-live-555/actions/runs/28872155326) | 2026-07-07 14:01 UTC |
-| `RPDevs-Vault` | [`container-manager`](https://github.com/RPDevs-Vault/container-manager) | Fleet Status Aggregator | ✅ `success` | [Run #62](https://github.com/RPDevs-Vault/container-manager/actions/runs/28870092758) | 2026-07-07 13:31 UTC |
 | `RPDevs-Vault` | [`monitor-manager`](https://github.com/RPDevs-Vault/monitor-manager) | Heartbeat Uptime Check | ✅ `success` | [Run #51](https://github.com/RPDevs-Vault/monitor-manager/actions/runs/28868649004) | 2026-07-07 13:09 UTC |
-| `RPDevs-Vault` | [`action-manager`](https://github.com/RPDevs-Vault/action-manager) | Global Actions Auditor | ✅ `success` | [Run #42](https://github.com/RPDevs-Vault/action-manager/actions/runs/28863720851) | 2026-07-07 11:47 UTC |
-| `RPDevs-Builds` | [`rpdevs-builds.github.io`](https://github.com/RPDevs-Builds/rpdevs-builds.github.io) | Deploy GitHub Pages | ✅ `success` | [Run #119](https://github.com/RPDevs-Builds/rpdevs-builds.github.io/actions/runs/28863690176) | 2026-07-07 11:46 UTC |
-| `RPDevs-Vault` | [`container-manager`](https://github.com/RPDevs-Vault/container-manager) | Fleet Status Aggregator | ✅ `success` | [Run #61](https://github.com/RPDevs-Vault/container-manager/actions/runs/28862347903) | 2026-07-07 11:22 UTC |
 | `RPDevs-Builds` | [`nextdns-firefox-addon`](https://github.com/RPDevs-Builds/nextdns-firefox-addon) | OpenSSF Scorecard | ✅ `success` | [Run #41](https://github.com/RPDevs-Builds/nextdns-firefox-addon/actions/runs/28859701933) | 2026-07-07 10:34 UTC |
-| `RPDevs-Vault` | [`monitor-manager`](https://github.com/RPDevs-Vault/monitor-manager) | Heartbeat Uptime Check | ✅ `success` | [Run #50](https://github.com/RPDevs-Vault/monitor-manager/actions/runs/28858708376) | 2026-07-07 10:15 UTC |
 | `RPDevs-Vault` | [`Archive`](https://github.com/RPDevs-Vault/Archive) | Repo Archive Manager | ❌ `failure` | [Run #68](https://github.com/RPDevs-Vault/Archive/actions/runs/28857955664) | 2026-07-07 10:05 UTC |
 | `RPDevs-Vault` | [`Archive`](https://github.com/RPDevs-Vault/Archive) | Repo Archive Manager | ❌ `failure` | [Run #67](https://github.com/RPDevs-Vault/Archive/actions/runs/28857427822) | 2026-07-07 09:55 UTC |
 | `RPDevs-Builds` | [`script.service.megacloud`](https://github.com/RPDevs-Builds/script.service.megacloud) | Megacloud Auto-Sync & Build | ✅ `success` | [Run #67](https://github.com/RPDevs-Builds/script.service.megacloud/actions/runs/28857215510) | 2026-07-07 09:49 UTC |
@@ -95,7 +95,7 @@ Last Updated: `2026-07-07 21:21:36 UTC`
 | `RPDevs-Builds` | [`repo-plugins-build`](https://github.com/RPDevs-Builds/repo-plugins-build) | Build and Dispatch Plugins | ❌ `completed` | `failure` | [2026-06-13 03:41 UTC](https://github.com/RPDevs-Builds/repo-plugins-build/actions/runs/27455463943) |
 | `RPDevs-Builds` | [`repo-scrapers-build`](https://github.com/RPDevs-Builds/repo-scrapers-build) | Build and Dispatch Scrapers | ❌ `completed` | `failure` | [2026-06-14 01:24 UTC](https://github.com/RPDevs-Builds/repo-scrapers-build/actions/runs/27483295858) |
 | `RPDevs-Builds` | [`repo-scripts-build`](https://github.com/RPDevs-Builds/repo-scripts-build) | Build and Dispatch Scripts | ❌ `completed` | `failure` | [2026-06-13 03:40 UTC](https://github.com/RPDevs-Builds/repo-scripts-build/actions/runs/27455464494) |
-| `RPDevs-Builds` | [`rpdevs-builds.github.io`](https://github.com/RPDevs-Builds/rpdevs-builds.github.io) | Deploy GitHub Pages | ✅ `completed` | `success` | [2026-07-07 21:21 UTC](https://github.com/RPDevs-Builds/rpdevs-builds.github.io/actions/runs/28899553051) |
+| `RPDevs-Builds` | [`rpdevs-builds.github.io`](https://github.com/RPDevs-Builds/rpdevs-builds.github.io) | Deploy GitHub Pages | ✅ `completed` | `success` | [2026-07-07 22:58 UTC](https://github.com/RPDevs-Builds/rpdevs-builds.github.io/actions/runs/28904522857) |
 | `RPDevs-Builds` | [`script.service.flaresolverr`](https://github.com/RPDevs-Builds/script.service.flaresolverr) | FlareSolverr Auto-Sync & Build | ✅ `completed` | `success` | [2026-07-07 02:36 UTC](https://github.com/RPDevs-Builds/script.service.flaresolverr/actions/runs/28837497718) |
 | `RPDevs-Builds` | [`script.service.megacloud`](https://github.com/RPDevs-Builds/script.service.megacloud) | Megacloud Auto-Sync & Build | ✅ `completed` | `success` | [2026-07-07 20:01 UTC](https://github.com/RPDevs-Builds/script.service.megacloud/actions/runs/28894831514) |
 | `RPDevs-Builds` | [`vlc-live-555`](https://github.com/RPDevs-Builds/vlc-live-555) | Universal Cross-Platform Matrix Release Engine | ✅ `completed` | `success` | [2026-07-07 19:30 UTC](https://github.com/RPDevs-Builds/vlc-live-555/actions/runs/28892964944) |
@@ -105,13 +105,13 @@ Last Updated: `2026-07-07 21:21:36 UTC`
 | `RPDevs-Vault` | [`MALSync`](https://github.com/RPDevs-Vault/MALSync) | Page tests | ✅ `completed` | `success` | [2026-07-06 09:03 UTC](https://github.com/RPDevs-Vault/MALSync/actions/runs/28780056401) |
 | `RPDevs-Vault` | [`MALSync`](https://github.com/RPDevs-Vault/MALSync) | Tests | ❌ `completed` | `failure` | [2026-07-06 09:03 UTC](https://github.com/RPDevs-Vault/MALSync/actions/runs/28780056479) |
 | `RPDevs-Vault` | [`MALSync`](https://github.com/RPDevs-Vault/MALSync) | autoUrls | ✅ `completed` | `success` | [2026-07-07 08:22 UTC](https://github.com/RPDevs-Vault/MALSync/actions/runs/28851991860) |
-| `RPDevs-Vault` | [`action-manager`](https://github.com/RPDevs-Vault/action-manager) | Global Actions Auditor | 🔄 `in_progress` | `Running...` | [2026-07-07 21:21 UTC](https://github.com/RPDevs-Vault/action-manager/actions/runs/28899578723) |
-| `RPDevs-Vault` | [`container-manager`](https://github.com/RPDevs-Vault/container-manager) | Fleet Status Aggregator | ✅ `completed` | `success` | [2026-07-07 20:22 UTC](https://github.com/RPDevs-Vault/container-manager/actions/runs/28896107811) |
+| `RPDevs-Vault` | [`action-manager`](https://github.com/RPDevs-Vault/action-manager) | Global Actions Auditor | 🔄 `in_progress` | `Running...` | [2026-07-07 22:58 UTC](https://github.com/RPDevs-Vault/action-manager/actions/runs/28904526530) |
+| `RPDevs-Vault` | [`container-manager`](https://github.com/RPDevs-Vault/container-manager) | Fleet Status Aggregator | ✅ `completed` | `success` | [2026-07-07 22:52 UTC](https://github.com/RPDevs-Vault/container-manager/actions/runs/28904237953) |
 | `RPDevs-Vault` | [`demo-repository`](https://github.com/RPDevs-Vault/demo-repository) | Auto Assign | ✅ `completed` | `success` | [2026-06-29 02:21 UTC](https://github.com/RPDevs-Vault/demo-repository/actions/runs/28344629251) |
 | `RPDevs-Vault` | [`demo-repository`](https://github.com/RPDevs-Vault/demo-repository) | Proof HTML | ✅ `completed` | `success` | [2026-06-29 02:21 UTC](https://github.com/RPDevs-Vault/demo-repository/actions/runs/28344618424) |
 | `RPDevs-Vault` | [`github-manager`](https://github.com/RPDevs-Vault/github-manager) | Global Health Dashboard | ✅ `completed` | `success` | [2026-07-07 19:43 UTC](https://github.com/RPDevs-Vault/github-manager/actions/runs/28893743568) |
 | `RPDevs-Vault` | [`github-openwrt`](https://github.com/RPDevs-Vault/github-openwrt) | Build gh for OpenWrt | ✅ `completed` | `success` | [2026-07-07 19:30 UTC](https://github.com/RPDevs-Vault/github-openwrt/actions/runs/28892974656) |
-| `RPDevs-Vault` | [`monitor-manager`](https://github.com/RPDevs-Vault/monitor-manager) | Heartbeat Uptime Check | ✅ `completed` | `success` | [2026-07-07 20:41 UTC](https://github.com/RPDevs-Vault/monitor-manager/actions/runs/28897245079) |
+| `RPDevs-Vault` | [`monitor-manager`](https://github.com/RPDevs-Vault/monitor-manager) | Heartbeat Uptime Check | ✅ `completed` | `success` | [2026-07-07 22:02 UTC](https://github.com/RPDevs-Vault/monitor-manager/actions/runs/28901746129) |
 | `RPDevs-Vault` | [`project-manager`](https://github.com/RPDevs-Vault/project-manager) | Project Roadmap Sync | ✅ `completed` | `success` | [2026-07-07 04:56 UTC](https://github.com/RPDevs-Vault/project-manager/actions/runs/28842582922) |
 | `RPDevs-Vault` | [`vault-manager`](https://github.com/RPDevs-Vault/vault-manager) | Archival Automator | ✅ `completed` | `success` | [2026-07-06 13:51 UTC](https://github.com/RPDevs-Vault/vault-manager/actions/runs/28796575761) |
 | `RPDevs-Vault` | [`vault-manager`](https://github.com/RPDevs-Vault/vault-manager) | Artifact Lifecycle Manager | ✅ `completed` | `success` | [2026-07-06 14:31 UTC](https://github.com/RPDevs-Vault/vault-manager/actions/runs/28799264795) |
